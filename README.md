@@ -9,9 +9,10 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# TBD-course-name
+Basics of Github Copilot in Project Deelopment
 
-_TBD-course-description_
+This course is important for those who are willing to use github copilot to make their life easy.
+
 
 </header>
 
@@ -24,18 +25,20 @@ _TBD-course-description_
   TBD-step-1-notes.
 -->
 
-## Step 1: TBD-step-1-name
+This course will help you understand the basics of github copilot.
+This is a must for developers who can increase their productivity.
+## Step 1: First Github repository for Github copilot
 
-_Welcome to "TBD-course-name"! :wave:_
+_Welcome to "Basics of Github Copilot in Project Deelopment"! :wave:_
 
-TBD-step-1-information
+Here we create a repository to understand how copilot works
 
 **What is _TBD-term-1_**: TBD-definition-1
 
 ### :keyboard: Activity: TBD-step-1-name
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. TBD-step-1-instructions.
+1. Here we create a repository to understand how copilot works
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
